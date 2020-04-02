@@ -1,0 +1,8 @@
+## Week01 Homework 04.01.2020 ##
+- Worked on changing some of the tags to give more semantic meaning to html doc.
+- Added alt text to images
+- Added Additional Meta information to improve SEO
+- Noted an graphical question regarding the highlight of "seo" in "Horiseon" 
+Logo in top banner
+
+
